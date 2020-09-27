@@ -1,3 +1,4 @@
-# Headline
+# Yisak Kim's TIL
 
-> An awesome project.
+> SEP, 27, 2020 ~
+> http://yisakk.github.io/TIL
