@@ -1,5 +1,5 @@
-# SNHU RAIL
-## SNUH Radiology Artificial Intelligence Lab
+# SNUH RAIL
+### SNUH Radiology Artificial Intelligence Lab
 
 - Web
 - Study - US

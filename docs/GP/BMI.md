@@ -1,5 +1,5 @@
 # SNUH BMI
-## SNUH BioMedical Informatics lab
+### SNUH BioMedical Informatics lab
 
 - Deephitplus
 - MAIC
